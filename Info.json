@@ -1,0 +1,110 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
+				"content": [
+					{
+						"title": "Welcome to the Arkasa Cluster, Survivor!",
+						"text": "Here, you’ll find everything you need to get started and thrive in our world. \r\nAll the important info, such as Discord links, server rates, and  commands, is available for you to explore. \r\nWhether you're looking to connect with the community or need specific details about the server settings, this is your hub for it all.\r\n\r\nIf you have any questions or need help, feel free to reach out to our players or team. We're here to support your survival journey!"
+					},
+					{
+						"title": "Server info",
+						"text": "Server Name:[Arkasa] CrossPlay PvE | 3x XP, 5x Gather/Tame, 15x Maturation | No-Wipe\n\nRates\n\n150 Wild Dino Level\nHarvesting x5\nXP x3\nTaming x5\nMating x5\nMaturation x15\nPlayer and Flyer speed leveling is enabled "
+					},
+					{
+						"title": "rules",
+						"text": "1 Respect for Other Players: Treat all players with respect. Bullying, discrimination, and the use of offensive language are prohibited.\n\n 2 No Griefing: Destroying or damaging other players' structures, tames, or possessions is not allowed.\n\n 3 Land Claiming: Do not build too close to other players without their permission. Maintain a reasonable distance to avoid limiting their expansion space.\n\n 4 No Blocking Caves: Do not block access to caves. Ensure that caves remain accessible to all players for resource gathering and exploration.\n\n 5 Taming Etiquette: Leave tames that other players are in the process of taming alone. Do not interfere with their taming process.\n\n 6 Fair Trade and Economy: Be fair in trade transactions. Scamming or deceiving other players is not allowed.\n\n 7 Server Events: Respect the rules and guidelines for any server events. Collaborate with other players and make the event enjoyable for everyone."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rates",
+				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
+				"content": [
+					{
+						"title": "SERVER DETAILS",
+						"text": "XP: x3\r\nGather: x3\r\nTaming: x5\r\nBreeding: x5\r\nMaturation/Gestation/Egg Hatch: x15\r\nMax Dino Level Wild: 150\r\nUnlimited Respecs\r\nOpen to all for imprinting\r\nAuto-unlock engrams while leveling\r\nSpeed-leveling for players and flyers\r\nCustom stacks\r\nReduced Food/Stamina/Water Drain (Multiplier=0.5)\r\nPlayer Health Recovery Multiplier: 2\r\nResource Respawn Period Multiplier: 0.5"
+					},
+					{
+						"title": "PLAYER STATS ADJUSTMENTS",
+						"text": "Health: Increased from 1 to 1.5\r\nStamina: Increased from 1 to 2\r\nOxygen: Increased from 1 to 1.5\r\nWeight: Increased from 1 to 3\r\nMelee Damage: Increased from 1 to 1.5\r\nMovement Speed: Increased from 1 to 1.2\r\nFortitude: Increased from 1 to 3"
+					},
+					{
+						"title": " CREATURE STATS ADJUSTMENTS",
+						"text": "Weight: Increased from 1 to 2"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Decay/points",
+				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
+				"content": [
+					{
+						"title": "Custom Decay System Explained",
+						"text": "New Players: Start with a 14-day decay timer, meaning your structures and dinos are safe for two weeks from your last login before decay begins.\r\n\r\nDiscord Verified Members: Enjoy an extended decay timer of 60 days after verifying through Discord.\r\n\r\nClick the button below on Verify to complete your verification through Discord.\r\n\r\n\r\nChecking  Decay Time:\r\n\r\nIf you want to check the decay timers of your structures or those of others, simply stand close to the structure and look at it. Then, type the command /decaytime in the chat to view the remaining time."
+					},
+					{
+						"title": "Points",
+						"text": "Once you are verified, you will start earning points based on your playtime. \r\n\r\nYou’ll receive these points every 5 minutes. These points can be used in our in-game shop. For more information, check the  Shop tab"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Shop",
+				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
+				"content": [
+					{
+						"title": "In-Game Points Shop – Commands & Info",
+						"text": "PC Players: Press F2 in-game to open the shop interface.\r\n\r\nConsole Players: The in-game interface is not available for consoles, but you can use commands to access the shop. Check out the commands below.\r\n\r\nOn our Discord, you can find a channel where all items are listed along with the commands you need to use.\r\n\r\n\r\nShop Commands:\r\n/shop\r\n to see the first 20 items in the shop. Each item will display its name and ID – remember these for easy purchasing.\r\n\r\nTo view more items, use \r\n/shop 2, /shop 3,\r\n etc., to browse the next set of 20 items.\r\n\r\n Buying Items:\r\nPurchase items using \r\n/buy [ItemID] [Quantity]\r\n.\r\nExample: \r\n/buy AdvancedRifleBullet 1\r\n to buy one stack of Advanced Rifle Bullets.\r\nA quantity of 1 refers to one full stack (if the item is sold in stacks).\r\n\r\n\r\n Checking Your Points:\r\nSee your current points balance with \r\n/points\r\n\r\n\r\nTrade points:\r\n/trade <'insertplayernamehere'> <insert amount here>\r\n \r\n\r\n Selling Items:\r\nSell items back to the shop using \r\n/sell [ItemName] [Quantity]\r\n\r\nExample: \r\n/sell seeds 1\r\n to sell 10 seeds.\r\n\r\n\r\n Viewing & Buying Kits\r\n\r\n View Kits:\r\nSee available kits with \r\n/kit\r\n\r\n\r\n Buying Kits:\r\nPurchase a kit using \r\n/kitbuy [KitName]\r\n\r\nExample: \r\n/kitbuy StarterKit\r\n to buy the Starter Kit.\r\n\r\n Claiming a Kit:\r\nClaim your purchased kit with \r\n/kit [KitName]\r\n\r\nExample: \r\n/kit StarterPt\r\n to claim the StarterPt kit.\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Quest and Ranks",
+				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
+				"content": [
+					{
+						"title": "Level Up with Our Quest System! ",
+						"text": "Complete quests and advance through the ranks: Initiate, Hunter, Tamer, Explorer, Builder, Dominator, and finally Ascendant. Each level increases your point earnings, with Ascendants receiving 12 points every 5 minutes and enjoying a 10% discount in the store!\r\n\r\nThere are also various quests available, including daily, weekly, and progression-based quests that you complete by playing. For more information, on PC, press F3 to open the quest console, or access it via the radial menu and select the quest symbol.\r\n\r\n\r\nQuests Overview\r\n\r\nThe Survivor's Ascension: The Initiate\r\nRequirements:\r\nCollect 2000 Wood\r\n1000 Stone\r\n500 Fiber\r\nRewards:\r\nNew rank: Initiate\r\n100 points\r\n\r\n\r\nThe Survivor's Ascension: The Hunter\r\nRequirements:\r\nKill 100 wild dinos\r\nKill 5 rex\r\nCollect 1000 raw meat\r\nCollect 1000 Hide\r\nRewards:\r\nNew rank: Hunter\r\n300 points\r\n\r\n\r\nThe Survivor's Ascension: The Tamer\r\nRequirements:\r\nTame 75 wild dinos\r\nTame 5 Dodo's\r\nTame 2 Rex\r\nRewards:\r\nNew rank: Tamer\r\n500 points\r\n\r\n The Survivor's Ascension: The Explorer\r\nRequirements:\r\nPlay for 1500 Minutes (25 hours)\r\nCollect 10 Rare Flower\r\nCollect 50 Black Pearl\r\nCollect 500 Obsidian\r\nRewards:\r\nNew rank: Explorer\r\n500 points\r\n\r\nThe Survivor's Ascension: The Builder\r\nRequirements:\r\nCraft 30 Stonewall\r\nCraft 15 Stone foundation\r\nCraft 15 Stone pillar\r\nCraft 5 Large plot\r\nCraft 1 Raft\r\nRewards:\r\nNew rank: Builder\r\n500 points\r\n\r\nThe Survivor's Ascension: The Dominator\r\nRequirements:\r\nKill 1 Boss\r\nKill 5 Alpha Rex\r\nKill 1 Alpha Mosa\r\nKill 10 Alpha Megalodon\r\nKill 50 random alphas\r\nRewards:\r\nNew rank: Dominator\r\n500 points\r\n\r\nThe Survivor's Ascension: The Ascendant\r\nRequirements:\r\nKill 1 Alpha Overseer\r\nRewards:\r\nNew rank: Ascendant\r\n500 points"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/tkj7APgbSP"
+			},
+			{
+				"text": "Donation Store",
+				"url": "https://arkasa.tip4serv.com/"
+			},
+			{
+				"text": "Verify",
+				"url": "https://discord.com/channels/1180996407293911070/1195897390599786526"
+			}
+		],
+		"version": 2
+	}
+}
