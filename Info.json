@@ -89,6 +89,17 @@
 						"text": "Complete quests and advance through the ranks: Initiate, Hunter, Tamer, Explorer, Builder, Dominator, and finally Ascendant. Each level increases your point earnings, with Ascendants receiving 12 points every 5 minutes and enjoying a 10% discount in the store!\r\n\r\nThere are also various quests available, including daily, weekly, and progression-based quests that you complete by playing. For more information, on PC, press F3 to open the quest console, or access it via the radial menu and select the quest symbol.\r\n\r\n\r\nQuests Overview\r\n\r\nThe Survivor's Ascension: The Initiate\r\nRequirements:\r\nCollect 2000 Wood\r\n1000 Stone\r\n500 Fiber\r\nRewards:\r\nNew rank: Initiate\r\n100 points\r\n\r\n\r\nThe Survivor's Ascension: The Hunter\r\nRequirements:\r\nKill 100 wild dinos\r\nKill 5 rex\r\nCollect 1000 raw meat\r\nCollect 1000 Hide\r\nRewards:\r\nNew rank: Hunter\r\n300 points\r\n\r\n\r\nThe Survivor's Ascension: The Tamer\r\nRequirements:\r\nTame 75 wild dinos\r\nTame 5 Dodo's\r\nTame 2 Rex\r\nRewards:\r\nNew rank: Tamer\r\n500 points\r\n\r\n The Survivor's Ascension: The Explorer\r\nRequirements:\r\nPlay for 1500 Minutes (25 hours)\r\nCollect 10 Rare Flower\r\nCollect 50 Black Pearl\r\nCollect 500 Obsidian\r\nRewards:\r\nNew rank: Explorer\r\n500 points\r\n\r\nThe Survivor's Ascension: The Builder\r\nRequirements:\r\nCraft 30 Stonewall\r\nCraft 15 Stone foundation\r\nCraft 15 Stone pillar\r\nCraft 5 Large plot\r\nCraft 1 Raft\r\nRewards:\r\nNew rank: Builder\r\n500 points\r\n\r\nThe Survivor's Ascension: The Dominator\r\nRequirements:\r\nKill 1 Boss\r\nKill 5 Alpha Rex\r\nKill 1 Alpha Mosa\r\nKill 10 Alpha Megalodon\r\nKill 50 random alphas\r\nRewards:\r\nNew rank: Dominator\r\n500 points\r\n\r\nThe Survivor's Ascension: The Ascendant\r\nRequirements:\r\nKill 1 Alpha Overseer\r\nRewards:\r\nNew rank: Ascendant\r\n500 points"
 					}
 				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Online Players",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Online Players",
+						"text": "{playerlist}"
+					}
+				]
 			}
 		],
 		"links": [
