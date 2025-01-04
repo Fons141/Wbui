@@ -60,7 +60,7 @@
 				"content": [
 					{
 						"title": "Custom Decay System Explained",
-						"text": "New Players: Start with a 14-day decay timer, meaning your structures and dinos are safe for two weeks from your last login before decay begins.\r\n\r\nDiscord Verified Members: Enjoy an extended decay timer of 60 days after verifying through Discord.\r\n\r\nClick the button below on Verify to complete your verification through Discord.\r\n\r\n\r\nChecking  Decay Time:\r\n\r\nIf you want to check the decay timers of your structures or those of others, simply stand close to the structure and look at it. Then, type the command /decaytime in the chat to view the remaining time."
+						"text": "New Players: Start with a 14-day decay timer, meaning your structures and dinos are safe for two weeks from your last login before decay begins.\r\n\r\nDiscord Verified Members: Enjoy an extended decay timer of 35 days after verifying through Discord.\r\n\r\nClick the button below on Verify to complete your verification through Discord.\r\n\r\n\r\nChecking  Decay Time:\r\n\r\nIf you want to check the decay timers of your structures or those of others, simply stand close to the structure and look at it. Then, type the command /decaytime in the chat to view the remaining time."
 					},
 					{
 						"title": "Points",
