@@ -74,8 +74,8 @@
 				"imageurl": "https://i.imgur.com/PZVagtr.jpg",
 				"content": [
 					{
-						"title": "In-Game Points Shop – Commands & Info",
-						"text": "PC Players: Press F2 in-game to open the shop interface.\r\n\r\nConsole Players: The in-game interface is not available for consoles, but you can use commands to access the shop. Check out the commands below.\r\n\r\nOn our Discord, you can find a channel where all items are listed along with the commands you need to use.\r\n\r\n\r\nShop Commands:\r\n/shop\r\n to see the first 20 items in the shop. Each item will display its name and ID – remember these for easy purchasing.\r\n\r\nTo view more items, use \r\n/shop 2, /shop 3,\r\n etc., to browse the next set of 20 items.\r\n\r\n Buying Items:\r\nPurchase items using \r\n/buy [ItemID] [Quantity]\r\n.\r\nExample: \r\n/buy AdvancedRifleBullet 1\r\n to buy one stack of Advanced Rifle Bullets.\r\nA quantity of 1 refers to one full stack (if the item is sold in stacks).\r\n\r\n\r\n Checking Your Points:\r\nSee your current points balance with \r\n/points\r\n\r\n\r\nTrade points:\r\n/trade <'insertplayernamehere'> <insert amount here>\r\n \r\n\r\n Selling Items:\r\nSell items back to the shop using \r\n/sell [ItemName] [Quantity]\r\n\r\nExample: \r\n/sell seeds 1\r\n to sell 10 seeds.\r\n\r\n\r\n Viewing & Buying Kits\r\n\r\n View Kits:\r\nSee available kits with \r\n/kit\r\n\r\n\r\n Buying Kits:\r\nPurchase a kit using \r\n/kitbuy [KitName]\r\n\r\nExample: \r\n/kitbuy StarterKit\r\n to buy the Starter Kit.\r\n\r\n Claiming a Kit:\r\nClaim your purchased kit with \r\n/kit [KitName]\r\n\r\nExample: \r\n/kit StarterPt\r\n to claim the StarterPt kit.\r\n"
+						"title": "In-Game Points Shop",
+						"text": "PC Players: Press F2 in-game to open the shop interface.\r\n\r\nConsole Players: For PS5: Left Thumbstick + L1       For Xbox: Left Thumbstick + LB"
 					}
 				]
 			},
